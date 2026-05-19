@@ -1,2 +1,3 @@
 # shard-spark-461631
-Side project
+
+Quick prototype for an idea.
